@@ -188,7 +188,7 @@
 
 - **桌面端**  
   - Windows / macOS / Linux：  
-    - 可配合 Clash 系列客户端、NekoRay 等；  
+    - 可配合 Clash Verge Rev、FlClash 系列客户端等；  
     - 即可通过订阅链接导入节点，统一管理。
 
 - **移动端**  
