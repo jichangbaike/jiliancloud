@@ -6,7 +6,7 @@
 本仓库用于整理极连云 JilianCloud 的官网注册入口说明、套餐信息、多平台使用指引以及常见问题，仅提供公开信息汇总，请以官网公布为准。
 
 > 本文档不构成任何投资或使用建议，仅作为使用说明类资料，请在合法合规前提下使用相关服务。  
-> 最后更新：2026-02-11（如套餐或线路有调整，以官网为准）
+> 最后更新：2026-03-06（如套餐或线路有调整，以官网为准）
 
 ---
 
@@ -152,12 +152,6 @@
 
 ## 优惠码与活动说明
 
-### 新春活动
-- 全场 8折优惠码：JLY888
-- 适用范围升级：本次活动年付小包也参与，无门槛全场通用。
-- 折上折福利：配合站点年付/三年付等周期自带折扣，叠加后最低可享 4.8折。
-- 活动时间：即日起至 2026年3月4日（正月十五后）。
-
 ### 长期活动
 
 - 1 年付 8 折
@@ -266,7 +260,7 @@
 
 > 流媒体与 AI 工具的解锁情况会随平台策略、IP 归属和时间变化而变化，以上内容仅为一般性参考。
 
-<img src="https://raw.githubusercontent.com/jichangbaike/jiliancloud/refs/heads/main/images/jiliancloud-test-20260115.png">
+<img src="https://raw.githubusercontent.com/jichangbaike/jiliancloud/refs/heads/main/images/jiliancloud-test-20260306.png" alt="极连云测试图">
 
 ---
 
